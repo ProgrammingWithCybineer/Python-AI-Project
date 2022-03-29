@@ -8,7 +8,7 @@
 - VS Code
 
 ### Current Features
-- User login
+- On Going
 
 
 ### Future Features
